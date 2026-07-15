@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ff41&height=180&section=header&text=Cleison%20Máquina&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20%7C%20SysAdmin&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://soc.cleisonmq.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+whoami%3A+Técnico+Júnior+de+Cibersegurança;%3E+scanning...+SOC+%7C+SIEM+%7C+Pentest;%3E+Sou+o+fruto+das+minhas+escolhas." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E%20whoami%3A%20T%C3%A9cnico%20J%C3%BAnior%20de%20Ciberseguran%C3%A7a%3B%3E%20scanning...%20SOC%20%7C%20SIEM%20%7C%20Pentest%3B%3E%20Sou%20o%20fruto%20das%20minhas%20escolhas." alt="Typing SVG" />
 </a>
 
 </div>
